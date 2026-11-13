@@ -242,3 +242,13 @@ Pismis 24, a young star cluster about 5,500 ly from Earth in the constellation S
 <p align="center">
   <img src="ISVEnterprise_Hull_Marking.jpg" alt="ISS Enterprise" />
 </p>
+
+
+
+<BR>
+<p align="center">
+  <img src="Plaque.jpg" alt="ISS Enterprise Plaque" />
+</p>
+
+
+

@@ -243,7 +243,7 @@ Pismis 24, a young star cluster about 5,500 ly from Earth in the constellation S
   <img src="ISVEnterprise_Hull_Marking.jpg" alt="ISS Enterprise" />
 </p>
 
-
+> *He who has never left his hearth and has confined his researches to the narrow field of the history of his own country cannot be compared to the courageous traveller who has worn out his life in journeys of exploration to distant parts and each day has faced danger in order to persevere in excavating the mines of learning and in snatching precious fragments of the past from oblivion.* **Al-Masudi**, 943.
 
 <BR>
 <p align="center">
